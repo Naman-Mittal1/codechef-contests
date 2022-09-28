@@ -1,4 +1,4 @@
-// Contest Code: START58D
+// Contest Code: START58D 
 
 
 // Problem Code: REACHTARGET (https://www.codechef.com/START58D/status/REACHTARGET,naman_mittal1)
